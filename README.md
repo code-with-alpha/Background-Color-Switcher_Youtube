@@ -10,6 +10,12 @@ A simple yet interactive background color changer using HTML, CSS, and JavaScrip
 - Visually appealing color palette using CSS.
 - Dynamic background color change.
 
+## How it Works
+
+- The user clicks on a color box.
+- The JavaScript event listener triggers a function to change the background color.
+- The background color of the page changes to match the color of the box.
+
 ## Technologies Used
 
 - HTML: Structure and layout.
@@ -24,12 +30,6 @@ git clone https://github.com/code-with-alpha/Background-Color-Switcher_Youtube.g
 ```
 2. Open the project in your favorite code editor.
 3. Run the project by opening the index.html file in a web browser.
-
-## How it Works
-
-- The user clicks on a color box.
-- The JavaScript event listener triggers a function to change the background color.
-- The background color of the page changes to match the color of the box.
 
 ## Youtube Links
 - Channel Link: https://youtube.com/@codewithalphadotcom
